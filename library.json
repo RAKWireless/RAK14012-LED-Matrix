@@ -1,0 +1,32 @@
+{
+	"name": "RAK14012-LED-Matrix",
+	"version": "1.0.0",
+	"keywords": [
+		"RGB",
+		"WS2812B",
+		"RAKWireless",
+		"WisBlock",
+		"RAK14012"
+	],
+	"description": "RAKWireless library for the RAK14012 module with WS2812B",
+	"frameworks": [
+		"arduino"
+	],
+	"platforms": [
+		"*"
+	],
+	"license": "GNU",
+	"authors": [
+		{
+			"email": "nero.du@rakwireless.com",
+			"url": "https://rakwireless.com",
+			"maintainer": true,
+			"name": "Nero"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/RAKWireless/RAK14012-LED-Matrix"
+	},
+	"homepage": "https://rakwireless.com"
+}
