@@ -8,6 +8,9 @@
 **/
 
 #include <Rak_RGB_Matrix.h> // Click to install library: http://librarymanager/All#Rak_RGB_Matrix
+#ifdef NRF52_SERIES
+#include <Adafruit_TinyUSB.h>
+#endif
 
 // Which pin on the Arduino is connected to the NeoPixels?
 // On a Trinket or Gemma we suggest changing this to 1:

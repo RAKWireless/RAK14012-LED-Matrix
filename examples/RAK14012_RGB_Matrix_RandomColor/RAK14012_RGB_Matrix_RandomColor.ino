@@ -9,6 +9,9 @@
 
 #include <Rak_RGB_Matrix.h>	// Click to install library: http://librarymanager/All#Rak_RGB_Matrix
 #include <stdlib.h>
+#ifdef NRF52_SERIES
+#include <Adafruit_TinyUSB.h>
+#endif
 
 #define DATA_PIN        WB_IO5
 #define NUMPIXELS       256   
