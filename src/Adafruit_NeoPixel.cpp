@@ -1,3 +1,5 @@
+/** Based on Adafruit_NeoPixel Library **/
+/** Changed to work with RAKWireless RAK14012 RGB Matrix Sensor **/ 
 /*!
  * @file Adafruit_NeoPixel.cpp
  *
