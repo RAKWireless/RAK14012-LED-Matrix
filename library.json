@@ -15,7 +15,7 @@
 	"platforms": [
 		"*"
 	],
-	"license": "GNU",
+	"license": "LGPL-3.0-or-later",
 	"authors": [
 		{
 			"email": "nero.du@rakwireless.com",
